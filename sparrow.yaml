@@ -6,4 +6,4 @@ tasks:
     code: |
       set -e
       cd source/
-      zef test .
+      zef build .
