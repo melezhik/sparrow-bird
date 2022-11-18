@@ -1,0 +1,12 @@
+{
+  "authors" : [
+    "Alexey Melezhik"
+  ],
+  "description" : "Sparrow::Bird",
+  "license" : "Artistic-2.0",
+  "name" : "Sparrow Bird",
+  "provides" : {
+    "Teddy::Bear" : "lib/Sparrow/Bird.pm6"
+  },
+  "version" : "0.0.1"
+}
